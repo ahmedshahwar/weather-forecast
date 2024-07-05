@@ -47,6 +47,7 @@ To get started with using the code and models in this repository, follow these s
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ahmedshahwar/weather-forecast.git
+   cd weather-forecast
    ```
 
 2. **Install dependencies:**
